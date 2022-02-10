@@ -7,5 +7,5 @@
     
 <p align="center">
   <a href="https://github.com/@xiBless">
-    <img src="https://discord.c99.nl/widget/theme-4/802582787205890078.png"/>
+    <img src="https://discord.c99.nl/widget/theme-3/802582787205890078.png"/>
      </a>
