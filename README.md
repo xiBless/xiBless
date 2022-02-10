@@ -4,3 +4,6 @@
 
 
     # ![](https://komarev.com/ghpvc/?username=xiBless&color=green)
+    
+
+    # [![Discord Presence](https://lanyard.cnrad.dev/api/802582787205890078)](https://discord.com/users/802582787205890078)
