@@ -18,11 +18,9 @@
 <p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
+  <code><img height="40" src="https://user-images.githubusercontent.com/99395363/153448346-192df7e2-7265-4df4-b79b-1e799eabb893.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
 </p>
-
-
 
 # Stats
   
