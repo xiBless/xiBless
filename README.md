@@ -5,5 +5,7 @@
 
     # ![](https://komarev.com/ghpvc/?username=xiBless&color=green)
     
-
-    # [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/802582787205890078)](https://discord.com/users/802582787205890078)
+<p align="center">
+  <a href="https://github.com/Bless">
+    <img src="https://discord.c99.nl/widget/theme-4/802582787205890078.png"/>
+     </a>
