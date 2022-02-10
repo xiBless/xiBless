@@ -4,7 +4,7 @@
 
 # Views
 
-# ![](https://komarev.com/ghpvc/?username=xiBless&color=purple)
+# ![](https://komarev.com/ghpvc/?username=xiBless&color=blueviolet)
 
 # Discord
 
