@@ -9,7 +9,7 @@
   <a href="https://github.com/@xiBless">
     <img src="https://discord.c99.nl/widget/theme-3/802582787205890078.png"/>
      </a>
-# Github Stats
+# Stats
 ![c](https://github-readme-stats.vercel.app/api/top-langs/?username=xiBless&layout=compact&theme=dark) 
 </br>
 ![stats](https://github-readme-stats.vercel.app/api?username=xiBless&show_icons=true&theme=dark)
