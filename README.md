@@ -14,8 +14,7 @@
     <img src="https://discord.c99.nl/widget/theme-3/802582787205890078.png"/>
      </a>
 # Languages
-<h2 align="center">Languages:</h4>
-<p align="center">
+<p align="left">
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
