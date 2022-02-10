@@ -9,7 +9,7 @@
 
 # Discord
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/@xiBless">
     <img src="https://discord.c99.nl/widget/theme-3/802582787205890078.png"/>
      </a>
