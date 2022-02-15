@@ -19,7 +19,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
 </p>
 
 # Stats
