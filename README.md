@@ -2,6 +2,8 @@
 - 👋 Hi, I’m @xiBless
 - 🌱 I’m currently learning Python,GO,NodeJS
 - 📫 Reach me using Discord! bless.#5153
+- ✔️ Dm me something to post on my github
+
 
 # Views
 
