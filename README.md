@@ -30,7 +30,6 @@
 
 <details>
   <summary>
-    ::marker
     test
   </summary>
   <a href="https://github.com/google">test</a>
