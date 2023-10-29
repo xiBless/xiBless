@@ -1,6 +1,6 @@
 # Introduction
 - 👋 Hi, I’m @xiBless
--  I’m currently learning Python,GO,NodeJS
+-  I’m currently learning Python,GO,NodeJS,Lua
 # Views
 
 ![](https://komarev.com/ghpvc/?username=xiBless&color=blueviolet)
@@ -10,7 +10,7 @@
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png"></code>
   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png"></code>
-  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/ruby/ruby.png"></code>
+  <code><img height="40" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
 </p>
 
 # Stats
