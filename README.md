@@ -1,1 +1,1 @@
-<img scr="https://cdn.discordapp.com/attachments/1101218121324449892/1205041194258927627/latest.png?ex=65d6ed11&is=65c47811&hm=ff09f0e5a23aa7c4c28f1af369db482206dc1e5f905630e4c15e31bdfb4580c6&" align = left height="40px"><h1>Bless</h1>
+<img scr="https://cdn.discordapp.com/attachments/1122500251648020503/1205039740911489044/banerus-hrt.png?ex=65d6ebb6&is=65c476b6&hm=e883508bdc2b5d81c7f5af43ef4d371b7d30cbbe9b2c582b8454af7021a0b4bd&" align = left height="40px"><h1>Bless</h1>
