@@ -1,1 +1,1 @@
-<img scr="https://cdn.discordapp.com/attachments/1122500251648020503/1205039740911489044/banerus-hrt.png?ex=65d6ebb6&is=65c476b6&hm=e883508bdc2b5d81c7f5af43ef4d371b7d30cbbe9b2c582b8454af7021a0b4bd&" align = left height="40px"><h1>Bless</h1>
+<img scr="https://raw.githubusercontent.com/Team-BANERUS/poketwo-Autocatcher/main/s-mds/banerus-hrt.png" align = left height="40px"><h1>Bless</h1>
